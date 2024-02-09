@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4cf9728a-5ea1-4646-9d51-31a00fd17df8/deploy-status)](https://app.netlify.com/sites/raicyt/deploys)
+
 # [Hugo Landing Page Theme](https://github.com/HugoBlox/theme-landing-page)
 
 [![Screenshot](./.github/preview.webp)](https://hugoblox.com/templates/)
