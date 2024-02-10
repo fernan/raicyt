@@ -22,8 +22,8 @@ main:
     name: Web
     url: es/comisiones/web/
   - parent: Comisiones
-    name: Redes Sociales
-    url: /es/comisiones/redes/
+    name: Difusión
+    url: /es/comisiones/difusion/
   - parent: Comisiones
     name: Juridica
     url: /es/comisiones/juridica/

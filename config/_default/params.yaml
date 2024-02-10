@@ -46,6 +46,8 @@ features:
     responses:
       positive: 'Gracias! [Ideas para mejorar?](https://github.com/fernan/raicyt/issues/new)'
       negative: 'Lo lamenta mos. [Decinos como mejorar](https://github.com/fernan/raicyt>/issues/new).'
+  privacy_pack:
+    enable: false
   repository:
     url: 'https://github.com/fernan/raicyt'
     content_dir: content
