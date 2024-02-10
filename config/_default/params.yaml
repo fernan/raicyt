@@ -17,11 +17,7 @@ marketing:
     description: 'Red de Autoridades de Instituciones de Ciencia y Tecnología de Argentina'
     twitter: 'RAICYT_Ar'
   analytics:
-    google_analytics: ''
-    baidu_tongji: ''
-    plausible: ''
-    fathom: ''
-    pirsch: ''
+    google_analytics: '427063210'
   verification:
     google: ''
     baidu: ''
