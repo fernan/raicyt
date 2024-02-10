@@ -3,18 +3,30 @@
 #   The `weight` parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
-    url: /#top
+  - name: Inicio
+    url: /#inicio
+    weight: 1
+  - name: Acerca
+    url: '/es/acerca'
     weight: 10
-  - name: Features
-    url: /#features
+  - name: Documentos
+    url: /es/documentos
     weight: 20
-  - name: Solutions
-    url: /#solutions
+  - name: Anuncios
+    url: /es/anuncios
     weight: 30
-  - name: Resources
+  - name: Comisiones
     weight: 40
     hasChildren: true
-  - parent: Resources
-    name: Blog
-    url: blog/
+  - parent: Comisiones
+    name: Web
+    url: es/comisiones/web/
+  - parent: Comisiones
+    name: Redes Sociales
+    url: /es/comisiones/redes/
+  - parent: Comisiones
+    name: Juridica
+    url: /es/comisiones/juridica/
+  - parent: Comisiones
+    name: Parlamentaria
+    url: /es/comisiones/parlamentaria/

@@ -3,47 +3,47 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Creator's Landing Page | Hugo Theme # Website name
-baseURL: 'https://example.com/' # Website URL
+title: RAICyT | Red de Autoridades de Institutos de Ciencia y Tecnologia # Website name
+baseURL: 'https://raicyt.org.ar/' # Website URL
 
 ############################
 ## PAGE OPTIONS
 ############################
 
-cascade:
-  # Blog post options
-  - _target:
-      path: /post/**
-      kind: page
-    pager: true
-    editable: true
-    hide_date: false
-    show_date_updated: true
-    reading_time: true
-    commentable: true
-    show_related: true
-    share: true
-    # Just use Breadcrumb for navigation on blog post pages?
-    show_breadcrumb: false
-    header:
-      navbar:
-        enable: true
-  # Blog section options
-  - _target:
-      path: /post/*
-      kind: section
-    # Change url to /blog/
-    url: /blog/
-    # Set the listing view
-    view: date-title-summary
+# cascade:
+#   # Posteo de Anuncios
+#   - _target:
+#       path: /es/anuncios/**
+#       kind: page
+#     pager: true
+#     editable: true
+#     hide_date: false
+#     show_date_updated: true
+#     reading_time: true
+#     commentable: true
+#     show_related: true
+#     share: true
+#     # Just use Breadcrumb for navigation on blog post pages?
+#     show_breadcrumb: false
+#     header:
+#       navbar:
+#         enable: true
+#   # Blog section options
+#   - _target:
+#       path: /es/anuncios/*
+#       kind: section
+#     # Change url to /blog/
+#     url: /es/anuncios/
+#     # Set the listing view
+#     view: date-title-summary
 
 ############################
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: es
 hasCJKLanguage: false
-defaultContentLanguageInSubdir: false
+defaultContentLanguageInSubdir: true
 removePathAccents: true
 
 ############################

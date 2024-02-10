@@ -11,11 +11,11 @@ appearance:
 # SEO
 marketing:
   seo:
-    site_type: Person
+    site_type: Organization
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo landing page theme powered by Hugo Blox website builder.'
-    twitter: 'GetResearchDev'
+    org_name: 'RAICYT'
+    description: 'Red de Autoridades de Instituciones de Ciencia y Tecnología de Argentina'
+    twitter: 'RAICYT_Ar'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -36,20 +36,32 @@ header:
     logo:
       text: ""
       # Logo filename in `assets/media/` folder
-      filename: "logo.svg"
+      filename: "logo-RAICYT-sol2.svg"
     button:
-      enable: true
+      enable: false
       text: "Get Started"
       url: "https://hugoblox.com/templates/"
     show_search: true
     show_theme_chooser: true
 
+# Site Features
+features:
+  feedback:
+    responses:
+      positive: 'Gracias! [Ideas para mejorar?](https://github.com/fernan/raicyt/issues/new)'
+      negative: 'Lo lamenta mos. [Decinos como mejorar](https://github.com/fernan/raicyt>/issues/new).'
+  repository:
+    url: 'https://github.com/fernan/raicyt'
+    content_dir: content
+    branch: main
+
 # Site footer
 footer:
   copyright:
-    notice: '© {year} My Company'
+    notice: '© {year} RAICYT'
 
 # Localization
 locale:
-  date_format: 'Jan 2, 2006'
+  date_format: '02 Ene 2006'
   time_format: '3:04 PM'
+  address_format: es-ar
