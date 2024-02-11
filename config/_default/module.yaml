@@ -7,3 +7,6 @@
 imports:
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind
+  # Add the Decap CMS module to allow easy editing of web pages:
+  - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-decap-cms
+

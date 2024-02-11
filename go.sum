@@ -1,3 +1,5 @@
+github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-decap-cms v0.1.1 h1:S1XFRPGzdlmrmqRcE9t0cj9auYFz7+TNCvsuxtD3wQQ=
+github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-decap-cms v0.1.1/go.mod h1:Njlsj3S1Z833TdX1nacJZzsiwGGhOq4Nilzo2BH/wQ8=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2-0.20231108143325-448ed0e3bd2b h1:W8YVjA0quc4omsSJbsf80MRlB8Cd9DXnqlgYehikezM=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2-0.20231108143325-448ed0e3bd2b/go.mod h1:C7jfxMLv1bEUqbM9XDSmEpfOpS8w06OgqNDEcbuRgL4=
 github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind v0.1.2-0.20240113174520-1975d0f568ff h1:7vH1/j+NgwRe84aKjHRmYu2bBstyB0gM7SFDxZf7heM=
