@@ -30,3 +30,6 @@ main:
   - parent: Comisiones
     name: Parlamentaria
     url: /es/comisiones/parlamentaria/
+  - parent: Comisiones
+    name: Adhesiones
+    url: /es/comisiones/adhesiones/
