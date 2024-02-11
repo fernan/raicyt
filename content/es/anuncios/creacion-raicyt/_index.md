@@ -11,4 +11,8 @@ En la primer reunión convocada de Directores y Vicedirectores de Institutos CON
 
 Esta primera reunión tuvo lugar en el Auditorio del Edificio Infinito + Cero de la Facultad de Ciencias Exactas y Naturales, UBA; el dia Martes 23 de Enero de 2024 a las 17hs.
 
-### Pr
+## Completar
+
+{{% callout warning %}}
+COMPLETAR
+{{% /callout %}}

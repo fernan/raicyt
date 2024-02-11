@@ -32,7 +32,7 @@ header:
     logo:
       text: ""
       # Logo filename in `assets/media/` folder
-      filename: "logo-RAICYT-sol2.svg"
+      filename: "logo-RAICYT-sol3.svg"
     button:
       enable: false
       text: "Get Started"
@@ -63,3 +63,10 @@ locale:
   date_format: '02 Ene 2006'
   time_format: '3:04 PM'
   address_format: es-ar
+
+# Extensions
+extensions:
+  decap_cms:
+    branch: main
+    publish_mode: editorial_workflow
+#     local_backend: true

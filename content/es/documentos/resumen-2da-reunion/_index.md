@@ -13,4 +13,3 @@ featured: false
 
 {{< icon name="document-text" pack="hero" >}} [Resumen Reunion 30 Ene 2024](resumen-2da-reunion.pdf)
 
-{{< icon name="document-text" pack="hero" >}} [Resumen Situacion Agencia I+D+i](resumen-situacion-agencia-2da-reunion.pdf)
