@@ -42,16 +42,16 @@ header:
 
 # Site Features
 features:
-  feedback:
-    responses:
-      positive: 'Gracias! [Ideas para mejorar?](https://github.com/fernan/raicyt/issues/new)'
-      negative: 'Lo lamenta mos. [Decinos como mejorar](https://github.com/fernan/raicyt>/issues/new).'
   privacy_pack:
     enable: false
   repository:
     url: 'https://github.com/fernan/raicyt'
     content_dir: content
     branch: main
+  feedback:
+    responses:
+      positive: 'Gracias! [Ideas para mejorar?](https://github.com/fernan/raicyt/issues/new)'
+      negative: 'Lo lamenta mos. [Decinos como mejorar](https://github.com/fernan/raicyt/issues/new).'
 
 # Site footer
 footer:
@@ -69,4 +69,4 @@ extensions:
   decap_cms:
     branch: main
     publish_mode: editorial_workflow
-#     local_backend: true
+    #local_backend: true

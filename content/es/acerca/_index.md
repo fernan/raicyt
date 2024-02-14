@@ -23,7 +23,6 @@ En RAICYT están presentes Directores y Vicedirectores (y posiciones ejecutivas 
 
 ## Nuestra misión
 
-
 {{% callout warning %}}
 COMPLETAR
 {{% /callout %}}

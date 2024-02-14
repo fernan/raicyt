@@ -2,6 +2,7 @@
 title: "Segunda Entrega - Carta al Directorio CONICET"
 subtitle: ""
 date: 2024-02-09T09:00:00-03:00
+editable: true
 ---
 
 La carta que fue consensuada en la 3ra reunión celebrada en forma virtual y presencial (FFyl UBA) fue entregada hoy al Directorio del CONICET. En vistas de la futura reunión de Directorio del Miercoles 14 de Febrero. 
