@@ -72,38 +72,42 @@ sections:
           role: "Nobel Prize in Chemistry, 1970"
           text: "A scientific mind is always curious, always questioning."
           image: "testimonial-leloir.jpg"
+        - name: "Jorge Sahade"
+          role: " Presidente de la Unión Astronómica Internacional, 1986."
+          text: "Support for basic science on which applied science and technology are based and nourished is, without a doubt, the only investment that will result in a modern, efficient and decision-autonomous Argentina."
+          image: "testimonial-sahade.png"
         - name: "Cesar Milstein"
           role: "Nobel Prize in Medicine, 1984"
           image: "testimonial-milstein.jpg"
           text: "Science will only fulfill its promises when the benefits are equally shared by the really poor of the world"
-  - block: collection
-    id: posts
-    content:
-      title: Recent Posts
-      subtitle: ''
-      text: 🧱 Under construction 🧱
-      # how many pages to display (0 = all pages)
-      count: 3
-      filters:
-        # the folders to display content from
-        folders:
-          - en/post
-        author: ""
-        category: ""
-        tag: ""
-        publication_type: ""
-        featured_only: false
-        exclude_featured: false
-        exclude_future: true
-        exclude_past: false
-      # how many pages we would like to offset by
-      offset: 0
-      # field to sort by, such as Date or Title
-      sort_by: 'Date'
-      sort_ascending: false
-      design: 
-        # choose a listing view
-        view: card
+  # - block: collection
+  #   id: posts
+  #   content:
+  #     title: Recent Posts
+  #     subtitle: ''
+  #     text: 🧱 Under construction 🧱
+  #     # how many pages to display (0 = all pages)
+  #     count: 3
+  #     filters:
+  #       # the folders to display content from
+  #       folders:
+  #         - en/post
+  #       author: ""
+  #       category: ""
+  #       tag: ""
+  #       publication_type: ""
+  #       featured_only: false
+  #       exclude_featured: false
+  #       exclude_future: true
+  #       exclude_past: false
+  #     # how many pages we would like to offset by
+  #     offset: 0
+  #     # field to sort by, such as Date or Title
+  #     sort_by: 'Date'
+  #     sort_ascending: false
+  #     design: 
+  #       # choose a listing view
+  #       view: card
   - block: cta-image-paragraph
     id: solutions
     content:
@@ -112,15 +116,11 @@ sections:
           text: Join our digital network activities - amplify and add your voice
           # Upload image to `assets/media/` and reference the filename here
           image: redes-raicyt.png
-          button:
-            text: Follow us in X (twitter)
-            url: https://twitter.com/RAICYT_Ar
-            icon: brands/x
           feature_icon: bolt
           features: 
-            - "Uno"
-            - "Dos"
-            - "Tres"
+            - "[Read us in Facebook](https://www.facebook.com/RAICYT)"
+            - "[Follow us in X / Twitter](https://twitter.com/RAICYT_Ar)"
+            - "[Look at our Instagram](https://instagram.com/raicyt_argentina)"
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"  

@@ -1,8 +1,6 @@
 ---
 title: "Creacion RAICYT"
-date: 2024-01-23T17:00:00-03:00
-author: raicyt
-editable: true
+date: 2024-01-23
 ---
 
 Se creó la Red de Autoridades de Instituciones en Ciencia y Tecnologia (RAICyT). [Link a nota periodística](https://www.eldestapeweb.com/sociedad/ciencia/crearon-una-red-federal-de-directores-de-institutos-para-resistir-el-ataque-a-la-ciencia-2024125060).
