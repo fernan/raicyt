@@ -74,7 +74,7 @@ sections:
           image: "testimonial-leloir.jpg"
         - name: "Jorge Sahade"
           role: " Presidente de la Unión Astronómica Internacional, 1986."
-          text: "Support for basic science on which applied science and technology are based and nourished is, without a doubt, the only investment that will result in a modern, efficient and decision-autonomous Argentina."
+          text: "Support for basic science, on which applied science and technology are based and nourished, is undoubtedly the only investment that will yield a modern, efficient, and decision-autonomous Argentina."
           image: "testimonial-sahade.png"
         - name: "Cesar Milstein"
           role: "Nobel Prize in Medicine, 1984"
