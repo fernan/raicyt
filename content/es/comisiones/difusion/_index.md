@@ -1,5 +1,5 @@
 ---
-title: "Subcomision RAICYT de Difusión"
+title: "Comisión RAICYT de Difusión"
 ---
 
 🧱 En construcción 🧱

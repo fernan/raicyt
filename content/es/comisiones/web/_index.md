@@ -1,5 +1,5 @@
 ---
-title: "Subcomision Web RAICYT"
+title: "Comisión Web RAICYT"
 ---
 
 🧱 En construcción 🧱

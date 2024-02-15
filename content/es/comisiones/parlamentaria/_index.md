@@ -1,5 +1,5 @@
 ---
-title: "Subcomision Parlamentaria RAICYT"
+title: "Comisión Parlamentaria RAICYT"
 ---
 
 🧱 En construcción 🧱
