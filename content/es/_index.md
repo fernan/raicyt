@@ -39,7 +39,7 @@ sections:
   - block: stats
     content:
       items:
-        - statistic: "260+"
+        - statistic: "340+"
           description: |
             Autoridades  
             de Institutos de Ciencia
