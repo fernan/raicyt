@@ -9,7 +9,7 @@ La comisión web mantiene esta página y el dominio `raicyt.org.ar`. Para sugeri
 
  Tenés ideas para mejorar? Información? 
  
- [{{< icon name="hero/pencil-square" >}} Abri un issue en github y contanos!](https://github.com/fernan/raicyt/issues/new)
+ [{{< icon name="brands/github" >}} Abrí un issue en github y contanos!](https://github.com/fernan/raicyt/issues/new)
 
 
 ## Quienes somos 
