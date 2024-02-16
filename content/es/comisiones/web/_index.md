@@ -14,7 +14,7 @@ La comisión web mantiene esta página y el dominio `raicyt.org.ar`. Para sugeri
 
 ## Quienes somos 
 
- - Roberto Gamen, Universidad Nacional de La Plata
+ - Roberto Gamen, Instituto de Astrofísica de La Plata (CONICET-UNLP)
  - Valeria Levi, Universidad de Buenos Aires
  - Diego Lamas, Universidad de San Martín
  - Carolina Touz, Universidad Nacional de Córdoba

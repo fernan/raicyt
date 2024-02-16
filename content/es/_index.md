@@ -14,16 +14,16 @@ sections:
       text: Red Argentina de Autoridades de Instituciones de Ciencia y Tecnología 
       primary_action:
         text: Conocenos
-        url: /es/acerca/
+        url: acerca
         icon: rocket-launch
       secondary_action:
         text: Lee nuestros documentos
-        url: /es/documentos
+        url: documentos
       announcement:
         text: "Anuncios Urgentes."
         link:
           text: "Ver"
-          url: "/es/anuncios/"
+          url: anuncios
     design:
       spacing:
         padding: [0, 0, 0, 0]

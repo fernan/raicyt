@@ -11,19 +11,19 @@ sections:
   - block: hero
     content:
       title: RAICyT
-      text: 🧱 Network. Argentina. Authorities. Institutes. Science. Technology  🧱
+      text: Argentina's Network of Authorities of Science and Technology Institutions
       primary_action:
         text: Meet us
-        url: https://raicyt.netlify.app/en/presentation/
+        url: about
         icon: rocket-launch
       secondary_action:
         text: Read our documents
-        url: https://raicyt.netlify.app/en/documents
+        url: documents
       announcement:
         text: "Urgent Announcements."
         link:
           text: "Read"
-          url: "/en/announcements/"
+          url: announcements
     design:
       spacing:
         padding: [0, 0, 0, 0]
