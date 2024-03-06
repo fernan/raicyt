@@ -20,7 +20,7 @@ sections:
         text: Lee nuestros documentos
         url: documentos
       announcement:
-        text: "Anuncios Urgentes."
+        text: "Anuncios."
         link:
           text: "Ver"
           url: anuncios
@@ -33,7 +33,7 @@ sections:
       background:
         image:
           # Add your image background to `assets/media/`.
-          filename: bg-bandera-AR.svg
+          filename: bg-triangles-raicyt.svg
           filters:
             brightness: 0.8
   - block: stats

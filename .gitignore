@@ -3,3 +3,4 @@ resources/
 hugo.log
 .hugo_build.lock
 hugo_stats.json
+EXAMPLES.md

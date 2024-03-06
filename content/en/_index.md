@@ -20,7 +20,7 @@ sections:
         text: Read our documents
         url: documents
       announcement:
-        text: "Urgent Announcements."
+        text: "Announcements."
         link:
           text: "Read"
           url: announcements
@@ -33,7 +33,7 @@ sections:
       background:
         image:
           # Add your image background to `assets/media/`.
-          filename: bg-bandera-AR.svg
+          filename: bg-triangles-raicyt.svg
           filters:
             brightness: 0.8
   - block: stats
