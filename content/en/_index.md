@@ -1,5 +1,5 @@
 ---
-title: 'Start'
+title: 'Home'
 date: 2023-10-24
 type: landing
 
@@ -41,12 +41,11 @@ sections:
       items:
         - statistic: "340+"
           description: |
-            Autoridades  
-            de Institutos de Ciencia
-        - statistic: "20k+"
+            Science and Technology Authorities 
+        - statistic: "17k+"
           description: |
-            Personas formadas en CyT  
-            desde YYYY
+            Postgraduate students trained 
+            since 2018
         - statistic: "3k+"
           description: |
             Comunidad extendida 

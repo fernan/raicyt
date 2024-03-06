@@ -43,10 +43,10 @@ sections:
           description: |
             Autoridades  
             de Institutos de Ciencia
-        - statistic: "20k+"
+        - statistic: "17k+"
           description: |
             Personas formadas en CyT  
-            desde YYYY
+            desde 2018
         - statistic: "3k+"
           description: |
             Comunidad extendida 
