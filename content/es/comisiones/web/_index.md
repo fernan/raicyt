@@ -15,6 +15,7 @@ La comisión web mantiene esta página y el dominio `raicyt.org.ar`. Para sugeri
 ## Quienes somos 
 
  - Roberto Gamen, Instituto de Astrofísica de La Plata (CONICET-UNLP)
+ - Mercedes Borge, Instituto de Medicina Experimental (IMEX-CONICET-ANM)
  - Valeria Levi, Universidad de Buenos Aires
  - Diego Lamas, Universidad de San Martín
  - Carolina Touz, Universidad Nacional de Córdoba
