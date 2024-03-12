@@ -2,6 +2,7 @@
 title: Adhesiones
 date: 2024-02-16
 summary: "La Comisión de Adhesiones recibe cartas de adhesión de científicos/as e instituciones científicas del exterior a la ciencia argentina."
+draft: true
 ---
 
 La [Comisión de Adhesiones RAICYT](comisiones/adhesiones) está recibiendo cartas
