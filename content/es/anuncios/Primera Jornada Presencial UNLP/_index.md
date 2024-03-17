@@ -1,7 +1,7 @@
 ---
 title: "PRIMERA JORNADA DE TRABAJO PRESENCIAL DE RAICYT"
 date: 2024-03-16
-summary: "Se realizó la Primera Jornada de Trabajo Presencial de RAICYT en la Universidad de La Plata. La reunión conto con la participaron presencial y virtual de más de 200 autoridades e investigadores/as de Instituciones de Ciencia y Tecnología. La Jornada finalizó con un Simposio en el que expusieron Lino Barañao, Roberto Salvarezza y Daniel Filmus."
+summary: "Se realizó la Primera Jornada de Trabajo Presencial de RAICYT en la Universidad Nacional de La Plata. Participaron de manera presencial y virtual más de 200 autoridades e investigadores/as de Instituciones de Ciencia y Tecnología. La Jornada finalizó con un Simposio en el que expusieron Lino Barañao, Roberto Salvarezza y Daniel Filmus."
 draft: true
 ---
 El sábado 16 de marzo se realizó la Primera Jornada de Trabajo Presencial de RAICYT en la Universidad Nacional de La Plata. 
