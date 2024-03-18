@@ -10,7 +10,7 @@ design:
 sections:
   - block: hero
     content:
-      title: RAICyT
+      title: RAICYT
       text: Argentina's Network of Authorities of Science and Technology Institutions
       primary_action:
         text: Meet us

@@ -10,7 +10,7 @@ design:
 sections:
   - block: hero
     content:
-      title: RAICyT
+      title: RAICYT
       text: Red Argentina de Autoridades de Instituciones de Ciencia y Tecnología 
       primary_action:
         text: Conocenos

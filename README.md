@@ -15,4 +15,4 @@ Las paginas se pueden editar directamente en Github [usando el editor nativo](ht
 Para contribuir con contenido (texto, fotos), correcciones, traducciones, contactar a la comisión Web RAICYT (o github issues). 
 
 --
-RAICyT
+RAICYT

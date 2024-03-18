@@ -10,7 +10,7 @@ design:
 sections:
   - block: hero
     content:
-      title: RAICyT
+      title: RAICYT
       text: 🧱 Red. Argentina. Autoridades. Institutos. Ciencia. Tecnología  🧱
       primary_action:
         text: Conocenos

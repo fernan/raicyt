@@ -7,13 +7,13 @@ es:
   languageCode: es-ar
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   contentDir: content/es
-  title: RAICyT | Red Autoridades de Institutos de Ciencia y Tecnología 
+  title: RAICYT | Red Autoridades de Institutos de Ciencia y Tecnología 
 
 # Uncomment the lines below to configure your website in a second language.
 en:
   languageCode: en-us
   contentDir: content/en
-  title: RAICyT | Network of Authorities of Science and Technology Institutes (Argentina)
+  title: RAICYT | Network of Authorities of Science and Technology Institutes (Argentina)
   params: 
     description: This is the site of the Argentinian network of authorities of Institutes that form the mesh of Science and Technology across the country. 
   menu: 

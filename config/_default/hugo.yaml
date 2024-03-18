@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: RAICyT | Red de Autoridades de Institutos de Ciencia y Tecnologia # Website name
+title: RAICYT | Red de Autoridades de Institutos de Ciencia y Tecnologia # Website name
 baseURL: 'https://raicyt.org.ar/' # Website URL
 
 ############################
