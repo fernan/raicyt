@@ -10,7 +10,7 @@ tags:
 featured: false
 ---
 
-{{< icon name="document-text" pack="hero" >}} [Resumen Reunion 08 Feb 2024](Resumen3.pdf)
+{{< icon name="document-text" pack="hero" >}} [Resumen Reunión 08 Feb 2024](Resumen3.pdf)
 
 
 
