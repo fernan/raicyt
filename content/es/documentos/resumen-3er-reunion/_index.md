@@ -1,5 +1,5 @@
 ---
-title: "Resumen de la 3er Reunion RAICyT"
+title: "Resumen de la 3er Reunión RAICyT"
 authors:
     - admin
 date: "2024-02-08T17:00:00-03:00"
