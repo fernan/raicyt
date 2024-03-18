@@ -11,5 +11,5 @@ featured: false
 ---
 
 
-{{< icon name="document-text" pack="hero" >}} [Resumen Reunion 30 Ene 2024](resumen-2da-reunion.pdf)
+{{< icon name="document-text" pack="hero" >}} [Resumen Reunión 30 Ene 2024](resumen-2da-reunion.pdf)
 
