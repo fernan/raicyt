@@ -1,5 +1,5 @@
 ---
-title: "Comisión RAICYT Adhesiones"
+title: "Comisión RAICYT de Adhesiones"
 ---
 
 La comisión coordina la recepción de cartas de adhesión de científicos/as e
