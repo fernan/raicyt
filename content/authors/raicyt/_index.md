@@ -21,7 +21,7 @@ role: Red de Autoridades
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Red de Autoridades de Instituciones de Ciencia y Tecnología
+  - name: Red de Autoridades de Institutos de Ciencia y Tecnología
     url: https://www.raicyt.org.ar/
 
 # Short bio (displayed in user profile at end of posts)
@@ -48,4 +48,4 @@ highlight_name: true
 website: ""
 ---
 
-La Red Argentina de Autoridades de Instituciones de Ciencia y Tecnologia es una red construida en 2024 para conectar a los diversos actores de Ciencia y Tecnología del pais, que naturalmente tienen inserción en diversas instituciones del sistema CyT argentino. 
+La Red Argentina de Autoridades de Institutos de Ciencia y Tecnologia es una red construida en 2024 para conectar a los diversos actores de Ciencia y Tecnología del pais, que naturalmente tienen inserción en diversas instituciones del sistema CyT argentino. 
