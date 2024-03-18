@@ -11,8 +11,5 @@ featured: false
 ---
 
 
-{{< icon name="sparkles" pack="hero" >}} 
+{{< icon name="sparkles" pack="hero" >}} [Resumen Reunion 08 Febrero 2024](Resumen de la 3ra reunión de RAICYT.pdf)
 
-{{% callout note %}}
-El resumen de la reunión está en preparación. 
-{{% /callout %}}
