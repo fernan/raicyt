@@ -1,5 +1,5 @@
 ---
-title: "Comisión Parlamentaria RAICYT"
+title: "Comisión RAICYT Parlamentaria"
 ---
 
 Coordinadores:
