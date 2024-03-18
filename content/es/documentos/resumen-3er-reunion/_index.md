@@ -1,5 +1,5 @@
 ---
-title: "Resumen de la 3er Reunion RAICyT"
+title: "Resumen de la 3er Reunión RAICyT"
 authors:
     - admin
 date: "2024-02-08T17:00:00-03:00"
@@ -10,9 +10,7 @@ tags:
 featured: false
 ---
 
+{{< icon name="document-text" pack="hero" >}} [Resumen Reunión 08 Feb 2024](Resumen3.pdf)
 
-{{< icon name="sparkles" pack="hero" >}} 
 
-{{% callout note %}}
-El resumen de la reunión está en preparación. 
-{{% /callout %}}
+

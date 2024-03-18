@@ -1,5 +1,9 @@
 ---
-title: "Comisión Parlamentaria RAICYT"
+title: "Comisión RAICYT Parlamentaria"
 ---
 
-🧱 En construcción 🧱
+Coordinadores:
+
+* Rodrigo Castro. ICC-CONICET 
+* Daniel Gómez. COMTRA-UNQ 
+* Jorge Geffner. INBIRS-CONICET
