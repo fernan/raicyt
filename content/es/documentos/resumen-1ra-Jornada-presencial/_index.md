@@ -1,6 +1,6 @@
 ---
 title: "Resumen de la 1ra Jornada de Trabajo Presencial de RAICYT"
-date: 2024-16-03
+date: 2024-03-16
 ---
 
 
