@@ -30,3 +30,6 @@ en:
     - name: Announcements
       url: /en/announcements
       weight: 30
+    - name: Meetings
+      url: /en/meetings
+      weight: 40

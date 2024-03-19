@@ -15,8 +15,11 @@ main:
   - name: Anuncios
     url: /es/anuncios
     weight: 30
-  - name: Comisiones
+  - name: Reuniones
+    url: /es/reuniones
     weight: 40
+  - name: Comisiones
+    weight: 50
     hasChildren: true
   - parent: Comisiones
     name: Web
