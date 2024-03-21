@@ -8,4 +8,5 @@ Para leer los comunicados del Directorio de CONICET, de la Red de Directores/as 
 
 Podes ver encontrar el documento con la declaración de RAICYT en el siguiente [link](ComunicadoRAICYT)
 
-{{< tweet user="RAICYT_Ar" id="1770578478263332986" >}}
+{{< tweet user="RAICYT_Ar" id="1770580364362179028" >}}
+
