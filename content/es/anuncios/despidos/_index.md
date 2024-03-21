@@ -1,6 +1,7 @@
 ---
 title: "RAICYT DICE NO A LA DESTRUCCIÓN DE LA CIENCIA Y TECNOLOGÍA ARGENTINA"
 date: 2024-03-20
+Summary: Desde RAICYT acompañamos la decisión del Directorio de CONICET y de la Red de Directores/as de CCTs de CONICET que rechazaron discontinuar contratos del personal.
 ---
 
 Desde RAICYT acompañamos la decisión del Directorio de CONICET y de la Red de Directores/as de CCTs de CONICET que rechazaron discontinuar contratos del personal que reviste bajo la norma del artículo 9 que finalizan el 31 de marzo.
