@@ -2,9 +2,8 @@
 title: "Sumate al primer Festival Federal de Ciencia Elijo Crecer"
 date: 2024-03-31
 
-summary: Vení a celebrar y defender la Ciencia Argentina en el 1er Festival Federal de Ciencia @elijocrecer.
-¿Cuándo? El 6 y 7 de abril
-¿Dónde? En más de 50 nodos del país, desde Jujuy hasta Ushuaia!
+summary: Vení a celebrar y defender la Ciencia Argentina en el 1er Festival Federal de Ciencia @elijocrecer. El 6 y 7 de abril
+en más de 50 nodos del país, desde Jujuy hasta Ushuaia!
 
 ---
 
