@@ -1,5 +1,5 @@
 ---
-title: "Sumate al primer Festival Federal de Ciencia Elijo Creer"
+title: "Sumate al primer Festival Federal de Ciencia Elijo Crecer"
 date: 2024-03-31
 
 summary: Vení a celebrar y defender la Ciencia Argentina en el 1er Festival Federal de Ciencia @elijocrecer.
