@@ -6,8 +6,6 @@ summary: 1er Festival Federal de Ciencia @elijocrecer
 :tear_off_calendar: El 6 y 7 de abril
 :flag_argentina: En más de 50 nodos del país, desde Jujuy hasta Ushuaia!
 
-draft: true
-
 ---
 
 Este 6 y 7 de abril se desarrollará el 1er Festival Federal de Ciencia @elijocrecer en defesa de la ciencia y tecnología de nuestro país.
