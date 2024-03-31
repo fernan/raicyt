@@ -1,5 +1,5 @@
 ---
-title: "GRACIAS AL MASIVO RECLAMO DE LA COMUNIDAD CIENTÍFICA SE LOGRÓ EXTENDER LA FECHA LIMITE DE LA CONVOCATORIA PICT 2023"
+title: "Sumate al primer Festival Federal de Ciencia Elijo Creer"
 date: 2024-03-31
 
 summary: **1er Festival Federal de Ciencia @elijocrecer**
