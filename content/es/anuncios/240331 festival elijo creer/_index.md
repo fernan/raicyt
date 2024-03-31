@@ -1,11 +1,12 @@
 ---
-title:"Sumate al primer Festival Federal de Ciencia Elijo Creer"
-
+title: "Sumate al primer Festival Federal de Ciencia Elijo Creer"
 date: 2024-03-31
 
-summary:1er Festival Federal de Ciencia elijocrecer
+summary: 1er Festival Federal de Ciencia @elijocrecer
+:tear_off_calendar: El 6 y 7 de abril
+:flag_argentina: En más de 50 nodos del país, desde Jujuy hasta Ushuaia!
 
-draft:true
+draft: true
 
 ---
 
