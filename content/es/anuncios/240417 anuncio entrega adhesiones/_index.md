@@ -1,7 +1,7 @@
 ---
 title: "Entrega de las más de 1000 adhesiones académicas de colegas e instituciones del exterior."
 date: 2024-04-10
-summary: Hoy se entregó en Jefatura de Gabinete una copia de las más de 1000 cartas de apoyo a la Ciencia y Tecnología Argentina recibidas de colegas e instituciones del exterior. Convocamos a toda la comunidad este miércoles 17 de abril a las 16 h a que nos acompañen en el Polo Científico para realizar la entrega a las autoridades del CONICET.
+summary: En el día de hoy entregamos a Jefatura de Gabinete una copia de las más de 1000 cartas de apoyo a la Ciencia y Tecnología Argentina recibidas de colegas e instituciones del exterior. Convocamos a toda la comunidad este miércoles 17 de abril a las 16 h a que nos acompañen en el Polo Científico para realizar la entrega a las autoridades del CONICET.
 draft: true
 ---
 Desde su creación, RAICYT ha recibido el apoyo de numerosos colegas e instituciones de todas partes del mundo, adhiriendo a nuestra preocupación sobre la situación actual del sistema científico y tecnológico argentino. **El número de cartas de apoyo recibidas hasta el momento superan las 1000**.
