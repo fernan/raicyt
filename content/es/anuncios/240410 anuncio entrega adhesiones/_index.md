@@ -7,6 +7,8 @@ draft: false
 
 Desde su creación, RAICYT ha recibido el apoyo de numerosos colegas e instituciones de todas partes del mundo, adhiriendo a nuestra preocupación sobre la situación actual del sistema científico y tecnológico argentino. **El número de cartas de apoyo recibidas hasta el momento superan las 1000**.
 
+![Foto de las cartas de adhesion](cartas-adhesion.jpeg "Cartas de adhesión entregadas hoy")
+
 En la [6ta reunión de RAICYT](Resumen6TAreunion.pdf) se decidió hacer entrega de una copia de las más de 1000 cartas de apoyo de nuestros colegas del exterior a la Jefatura de Gabinete de Ministros y al CONICET. 
 
 Hoy miércoles 10 de abril, día en el que se conmemora al investigador/a científico/a, se realizó la entrega de estas cartas en la Jefatura de Gabinete de Ministros. Para ver la nota entregada en el día de hoy al Jefe del Gabinete de Ministros 
