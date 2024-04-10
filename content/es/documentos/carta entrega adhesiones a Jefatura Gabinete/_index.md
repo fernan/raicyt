@@ -1,7 +1,6 @@
 ---
 title: "Entrega de las más de 1000 adhesiones académicas de colegas e instituciones del exterior."
 date: 2024-04-10
-Draft: true
 ---
 
 
