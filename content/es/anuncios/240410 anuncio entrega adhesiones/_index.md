@@ -16,6 +16,6 @@ Hoy miércoles 10 de abril, día en el que se conmemora al investigador/a cient�
 
 El próximo miércoles 17 de abril se hará entrega de otra copia de las adhesiones a las autoridades de CONICET, esta vez con un acto especial en que se leerán fragmentos de las cartas recibidas y se hará un abrazo al CONICET y al ex-MinCYT, junto con otras sorpresas. 
 
-**Convocamos a toda la comunidad a que se sumen y partiipen de esta entrega el miércoles 17 de abril a las 16 h en el Polo Científico Tecnológico (Godoy Cruz 2320, CABA) para defender el desarrollo científico tecnológico nacional.**
+**Convocamos a toda la comunidad a que se sumen y participen de esta entrega el miércoles 17 de abril a las 16 h en el Polo Científico Tecnológico (Godoy Cruz 2320, CABA) para defender el desarrollo científico tecnológico nacional.**
 
 
