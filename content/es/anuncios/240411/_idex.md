@@ -1,7 +1,7 @@
 ---
 title: "EL MIERCOLES 17 DE ABRIL TODOS AL POLO CIENTÍFICO Y TECNÓLOGICO. ABRAZO MUNDIAL A LA CIENCIA ARGENTINA"
 date: 2024-04-11
-summary: El miércoles 17 de abril a las 16 h acompañanos a entregar más de 1000 cartas de apoyo al CONICET de instituciones científicas y colegas de todo el mundo en un gran #AbrazoMundial.
+summary: El miércoles 17 de abril a las 16 h acompañanos a entregar más de 1000 cartas de apoyo al CONICET de instituciones científicas y colegas de todo el mundo en un gran abrazo mundial. 
 draft: true
 ---
 
