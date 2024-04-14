@@ -4,18 +4,23 @@ subtitle: "Quienes somos y hacemos RAICYT"
 translationKey: about
 ---
 
-RAICYT surgió como necesidad de integrar una defensa integral del sistema científico y tecnológico argentino, cruzando instituciones ligadas naturalmente al quehacer cientifico, la investigación y la formación de recursos humanos altamente calificados. 
+RAICYT es la Red de Autoridades de Institutos de Ciencia y Tecnología de
+Argentina. Conformada a inicios de este año y de la cual participamos más de 400
+autoridades de diversos organismos de Ciencia y Técnica distribuidos a lo largo
+y ancho de todo nuestro país. Los miembros de RAICYT pertenemos al CONICET, a
+las Universidades y a otras instituciones científico tecnológicas Argentinas. En
+RAICYT están representadas todas las áreas del conocimiento, desde las Ciencias
+Sociales y Humanidades, pasando por las Ciencias Agrarias, de Ingeniería y de
+Materiales, hasta las Ciencias Biológicas y de la Salud y las Ciencias Exactas y
+Naturales.
 
+La red se conformó debido al feroz ajuste presupuestario impulsado por el
+gobierno nacional, el cual amenaza la continuidad de los proyectos de
+investigación en curso y el funcionamiento de nuestros institutos, y motoriza ya
+un nuevo éxodo de jóvenes científicos y la destrucción de grupos de
+investigación que ha costado años de construcción y consolidación, en todas las
+áreas disciplinares. 
 
-## Quienes somos RAICYT. 
-
-En RAICYT están presentes Directores y Vicedirectores (y posiciones ejecutivas similares) de diversos organismos: 
-
-- CONICET (Consejo Nacional de Investigaciones Científicas y Técnicas)
-- Universidades y sus Institutos y Centros de Investigación
-- Agencia Nacional de Promoción de la Investigación, el Desarrollo Tecnológico y la Innovación
-- Instituto de Investigaciones Científicas y Técnicas para la Defensa (CITEDEF)
-- Comisión Nacional de Energía Atómica (CNEA)
-- Comisión Nacional de Actividades Espaciales (CONAE)
-- Instituto Nacional de Tecnología Agropecuaria (INTA)
-- Instituto Nacional de Tecnología Industrial (INTI)
+El objetivo central de RAICYT es defender el sistema científico tecnológico
+nacional. Estamos convencidos que sin ciencia no hay un futuro promisorio
+posible para el desarrollo de nuestro país.
