@@ -8,7 +8,7 @@ date: 2024-05-27
 
 {{< icon name="document-text" pack="hero" >}} [El posible colapso del sistema científico explicado acá](INFOGRAFIA.pdf)
 
-[![Foto infografia](featured.jpg)](INFOGRAFIA.pdf)
+[![Foto infografia](infografia.jpg)](INFOGRAFIA.pdf)
 
 
 
