@@ -8,5 +8,4 @@ date: 2024-05-27
 
 {{< icon name="document-text" pack="hero" >}} [El posible colapso del sistema científico explicado acá](INFOGRAFIA.pdf)
 
-![Infografía](INFOGRAFIA.pdf "Infografía sobre el colapso potencial de las instituciones argentinas en los rankings internacionales Scimago y Leideny")
 
