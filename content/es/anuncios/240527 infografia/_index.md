@@ -1,7 +1,6 @@
 ---
 title: "Infografía sobre el colapso potencial de las instituciones argentinas en los rankings internacionales Scimago y Leiden"
 date: 2024-05-27
-draft: true
 ---
 
 ¿QUÉ IMPACTO TENDRÍA EL DESFINANCIAMIENTO DEL SISTEMA CIENTÍFICO EN EL LIDERAZGO INTERNACIONAL DE ARGENTINA EN EL RANKING SCIMAGO?
