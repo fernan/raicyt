@@ -28,7 +28,7 @@ main:
     name: Difusión
     url: /es/comisiones/difusion/
   - parent: Comisiones
-    name: Juridica
+    name: Jurídica
     url: /es/comisiones/juridica/
   - parent: Comisiones
     name: Parlamentaria
