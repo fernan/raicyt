@@ -11,4 +11,4 @@ La comisión de Asuntos Jurídicos está conformada por más de 15 investigadore
 Coordinadores:
 * Oscar E Pérez IQUIBICEN-FCEyN-UBA
 * Martin Rumbo IIFP-Universidad Nacional de La Plata
-* Camila Martínez Calejman CEFIBO- CONICET. CABA
+* Camila Martínez Calejman CEFYBO-CONICET. CABA
