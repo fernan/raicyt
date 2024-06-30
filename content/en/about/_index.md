@@ -15,3 +15,16 @@ taken years to build and consolidate, in all disciplinary areas.
 The main aim of RAICYT is to defend the national scientific and technology
 system. We believe that without science there is no promising future
 possible for the development of our country.
+
+##General coordination of RAICYT
+* Eduardo Barrio. IIF-SADAF-CONICET. CABA
+* Beatriz Bragoni. Instituto de Ciencias Humanas Sociales y Ambientales (INCIHUSA). Mendoza
+* Luis Eduardo Cadus. INTEQUI. San Luis
+* Sergio Dassie. INFIQC-CONICET-UNC. Córdoba
+* Darío Falcone. Instituto para el Desarrollo Agroindustrial y de la Salud (IDAS). Río Cuarto
+* Romina Gamberale. Instituto de Medicina Experimental (IMEX)-CONICET-Academia Nacional de Medicina (ANM). CABA
+* Jorge Geffner. Instituto de Investigaciones Biomédicas en Retrovirus y Sida (INBIRS). CABA
+* Valeria Levi. Facultad de Ciencias Exactas y Naturales (FCEyN) Universidad de Buenos Aires (UBA). CABA
+* Adali Pecci. IFIBYNE. CABA
+* Martin Rumbo. Instituto de Estudios Inmunológicos y Fisiopatologicos (IIFP). La Plata
+* Analía Trevani. IMEX-CONICET-ANM. CABA
