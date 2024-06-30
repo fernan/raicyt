@@ -16,7 +16,7 @@ The main aim of RAICYT is to defend the national scientific and technology
 system. We believe that without science there is no promising future
 possible for the development of our country.
 
-##General coordination of RAICYT
+## General coordination of RAICYT
 * Eduardo Barrio. IIF-SADAF-CONICET. CABA
 * Beatriz Bragoni. Instituto de Ciencias Humanas Sociales y Ambientales (INCIHUSA). Mendoza
 * Luis Eduardo Cadus. INTEQUI. San Luis
