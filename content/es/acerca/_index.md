@@ -25,7 +25,7 @@ El objetivo central de RAICYT es defender el sistema científico tecnológico
 nacional. Estamos convencidos que sin ciencia no hay un futuro promisorio
 posible para el desarrollo de nuestro país.
 
-##Coordinación general de RAICYT
+## Coordinación general de RAICYT
 * Eduardo Barrio. IIF-SADAF-CONICET. CABA
 * Beatriz Bragoni. Instituto de Ciencias Humanas Sociales y Ambientales (INCIHUSA). Mendoza
 * Luis Eduardo Cadus. INTEQUI. San Luis
