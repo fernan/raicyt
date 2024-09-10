@@ -118,8 +118,8 @@ sections:
           feature_icon: bolt
           features: 
             - "[Read us in Facebook](https://www.facebook.com/RAICYT)"
-            - "[Follow us in X / Twitter](https://twitter.com/RAICYT_Ar)"
-            - "[Look at our Instagram](https://instagram.com/raicyt_argentina)"
+            - "[Follow us in X / Twitter](https://twitter.com/raicyt_ar)"
+            - "[Look at our Instagram](https://instagram.com/raicyt_ar)"
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"  

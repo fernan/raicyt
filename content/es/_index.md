@@ -115,8 +115,8 @@ sections:
           feature_icon: bolt
           features: 
             - "[Leenos en Facebook](https://www.facebook.com/RAICYT)"
-            - "[Seguinos en X / Twitter](https://twitter.com/RAICYT_Ar)"
-            - "[Mirá nuestro Instagram](https://instagram.com/raicyt_argentina)"
+            - "[Seguinos en X / Twitter](https://twitter.com/raicyt_ar)"
+            - "[Mirá nuestro Instagram](https://instagram.com/raicyt_ar)"
           button:
             text: Unite a nuestro grupo de Difusión
             url: comisiones/difusion
