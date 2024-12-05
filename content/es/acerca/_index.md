@@ -5,8 +5,7 @@ translationKey: about
 ---
 
 RAICYT es la Red de Autoridades de Institutos de Ciencia y Tecnología de
-Argentina. Conformada a inicios de este año y de la cual participamos más de 400
-autoridades de diversos organismos de Ciencia y Técnica distribuidos a lo largo
+Argentina. Conformada a inicios de este año y de la cual participamos autoridades de diversos organismos de Ciencia y Técnica distribuidos a lo largo
 y ancho de todo nuestro país. Los miembros de RAICYT pertenecemos al CONICET, a
 las Universidades y a otras instituciones científico tecnológicas Argentinas. En
 RAICYT están representadas todas las áreas del conocimiento, desde las Ciencias
